@@ -1,4 +1,4 @@
-module github.com/Manner1954/TelegramBot/storage
+module github.com/Manner1954/TelegramBot
 
 go 1.19
 

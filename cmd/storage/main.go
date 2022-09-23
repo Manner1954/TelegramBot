@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Manner1954/TelegramBot/storage/internal/storage"
+	"github.com/Manner1954/TelegramBot/internal/storage"
 )
 
 func main() {

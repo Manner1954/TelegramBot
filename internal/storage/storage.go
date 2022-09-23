@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/Manner1954/TelegramBot/storage/internal/file"
+	"github.com/Manner1954/TelegramBot/internal/file"
 
 	"github.com/google/uuid"
 )
