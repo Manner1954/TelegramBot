@@ -1,4 +1,4 @@
-module github.com/arlatypov/storage
+module github.com/Manner1954/TelegramBot/storage
 
 go 1.19
 
